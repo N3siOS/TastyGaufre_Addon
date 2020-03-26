@@ -1,9 +1,21 @@
-# Gaufre texture add on || Ajout Texture Gaufre x32
+# Gaufre texture add on || Ajout Texture Gaufre
 
-Ajout d'une texture de gaufre à la place de la carrotte dorée.
+Texture add-on pour Minecraft Java Edition qui tranforme la carootte dorée en TastyGaufre.
 
 > by Nesios
 
-## Installation
+### Installation
 
-Pour uttiliser le pack il faut le glisser dans votre dossier ressource pack puis de le placer en haut de votre liste de pack actif.
+Pour utiliser l'add-on il faut simplement le glisser dans votre dossier ressource pack, puis en jeu
+placer le en haut de votre liste de pack actif.
+
+### Logiciel
+
+- Modélistion créée avec Blockbench.
+- Texture créée avec Krita.
+- Edition du code avec Atom.
+
+### Prochains Ajouts
+
+- Support de la version 1.15. > working
+- Support de la version 1.16. > stand by
