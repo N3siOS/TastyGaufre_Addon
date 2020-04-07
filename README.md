@@ -1,4 +1,7 @@
-# TastyGaufre texture add-on || Ajout Texture TastyGaufre
+
+# TastyGaufre Addon x32! [tastygaufre](https://img.shields.io/badge/Version-1.0-important)
+
+![version](https://img.shields.io/badge/Version-1.0-important)
 
 Texture add-on pour Minecraft Java Edition qui transforme la carotte dorée en TastyGaufre.
 
