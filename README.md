@@ -1,5 +1,5 @@
 
-# TastyGaufre Addon x32! ![tastygaufre](https://github.com/N3siOS/TastyGaufre_Addon/blob/master/pack.png)
+# TastyGaufre Addon x32! ![tastygaufre](https://github.com/N3siOS/TastyGaufre_Addon/blob/master/assets/minecraft/textures/item/golden_carrot.png)
 
 ![version](https://img.shields.io/badge/Version-1.0-important)
 
