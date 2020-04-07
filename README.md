@@ -1,5 +1,5 @@
 
-# TastyGaufre Addon x32! [tastygaufre](https://img.shields.io/badge/Version-1.0-important)
+# TastyGaufre Addon x32! ![tastygaufre](https://github.com/N3siOS/TastyGaufre_Addon/blob/master/pack.png)
 
 ![version](https://img.shields.io/badge/Version-1.0-important)
 
