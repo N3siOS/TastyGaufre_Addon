@@ -7,8 +7,8 @@ Texture add-on pour Minecraft Java Edition qui transforme la carotte dorée en T
 
 ## Téléchargement
 
-- TastyGaufre Add-on 1.14
-- Tastygaufre Add-on 1.15
+- [TastyGaufre Add-on 1.14](https://github.com/N3siOS/TastyGaufre_Addon/releases/download/v1.0/TastyGaufre.Addon.x32.1.14.x.zip)
+- [Tastygaufre Add-on 1.15](https://github.com/N3siOS/TastyGaufre_Addon/releases/download/v1.0/TastyGaufre.Addon.x32.1.15.2.zip)
 
 ## Installation
 
