@@ -5,11 +5,6 @@
 
 Texture add-on pour Minecraft Java Edition qui transforme la carotte dorée en TastyGaufre.
 
-## Téléchargement
-
-- [TastyGaufre Add-on 1.14](https://github.com/N3siOS/TastyGaufre_Addon/releases/download/v1.0/TastyGaufre.Addon.x32.1.14.x.zip)
-- [Tastygaufre Add-on 1.15](https://github.com/N3siOS/TastyGaufre_Addon/releases/download/v1.0/TastyGaufre.Addon.x32.1.15.2.zip)
-
 ## Installation
 
 Pour utiliser l'add-on il faut simplement le glisser dans votre dossier ressource pack, puis en jeu
@@ -27,4 +22,4 @@ placer le en haut de votre liste de pack sélectionné.
 - Support de toute les langues francophones. [ en attente ]
 - Changement de l'image du pack. [ en attente ]
 
-> pour plus d'informations consulter le tableau des tâches disponible a cette endroit : To Do Board
+> Pack créé par Nesios sous licence GNU GENERAL PUBLIC v3.
