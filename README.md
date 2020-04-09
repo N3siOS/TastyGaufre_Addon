@@ -19,7 +19,7 @@ placer le en haut de votre liste de pack sélectionné.
 ### Prochains Ajouts
 
 - Support de la version 1.16. [ _en attente_ ]
-- Support de toute les langues francophones. [ en attente ]
-- Changement de l'image du pack. [ en attente ]
+- Support de toute les langues francophones. [ _en attente_ ]
+- Version Bedrock PC et mobiles. [ _en progression_ ]
 
 > Pack créé par Nesios sous licence GNU GENERAL PUBLIC v3.
