@@ -3,7 +3,7 @@
 
 ![version](https://img.shields.io/badge/Version-1.0-important)
 
-Texture add-on pour Minecraft Java Edition qui transforme la carotte dorée en TastyGaufre.
+Texture add-on pour Minecraft Java et Bedrock Edition qui transforme la carotte dorée en TastyGaufre.
 
 ## Installation
 
@@ -20,6 +20,10 @@ placer le en haut de votre liste de pack sélectionné.
 
 - Support de la version 1.16. [ _en attente_ ]
 - Support de toute les langues francophones. [ _en attente_ ]
-- Version Bedrock PC et mobiles. [ _en progression_ ]
+
+### Téléchargement
+
+- [Version Java (1.15.2)](https://github.com/N3siOS/TastyGaufre_Addon/releases/download/v1.0/TastyGaufre-Addonx32.1.15.2.zip)
+- [Version Bedrock](https://github.com/N3siOS/TastyGaufre_addon-Bedrock/releases/download/0.0.1b/TastyGaufre_x32_Resource_Pack_Beta.mcpack)
 
 > Pack créé par Nesios sous licence GNU GENERAL PUBLIC v3.
