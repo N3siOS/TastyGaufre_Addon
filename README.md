@@ -1,5 +1,5 @@
 
-# TastyGaufre Addon x32! ![tastygaufre](https://github.com/N3siOS/TastyGaufre_Addon/blob/master/assets/minecraft/textures/item/golden_carrot.png)
+# TastyGaufre Addon x32
 
 ![version](https://img.shields.io/badge/Version-1.0-important)
 
@@ -24,6 +24,6 @@ placer le en haut de votre liste de pack sélectionné.
 ### Téléchargement
 
 - [Version Java (1.15.2)](https://github.com/N3siOS/TastyGaufre_Addon/releases/download/v1.0/TastyGaufre-Addonx32.1.15.2.zip)
-- [Version Bedrock](https://github.com/N3siOS/TastyGaufre_addon-Bedrock/releases/download/0.0.1b/TastyGaufre_x32_Resource_Pack_Beta.mcpack)
+- [Version Bedrock](https://github.com/N3siOS/TastyGaufre_Addon/releases/download/v1.0/TastyGaufre_Bedrock_x32_Resource_Pack_Beta.mcpack)
 
 > Pack créé par Nesios sous licence GNU GENERAL PUBLIC v3.
