@@ -1,5 +1,5 @@
 
-# TastyGaufre Addon x32
+# TastyGaufre Addon
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/N3siOS/TastyGaufre_Addon) ![GitHub](https://img.shields.io/github/license/N3siOS/TastyGaufre_Addon) ![Java version](https://img.shields.io/badge/Java%20version-1.15.2-yellow) ![Bedrock version](https://img.shields.io/badge/Bedrock%20version-1.14.30-green)
 
