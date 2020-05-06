@@ -17,7 +17,6 @@ place it at the top of your selected pack list.
 
 - Version 1.16 support. [ Pending ]
 - Support of all French-speaking languages. [​On hold]
-- x16 version. [​ Pending]
 
 ## Français
 
