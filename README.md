@@ -1,7 +1,7 @@
 
 # TastyGaufre Addon
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/N3siOS/TastyGaufre_Addon) ![GitHub](https://img.shields.io/github/license/N3siOS/TastyGaufre_Addon) ![Java version](https://img.shields.io/badge/Java%20version-1.15.2-yellow) ![Bedrock version](https://img.shields.io/badge/Bedrock%20version-1.14.30-green)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/N3siOS/TastyGaufre_Addon) ![GitHub](https://img.shields.io/github/license/N3siOS/TastyGaufre_Addon) ![Java version](https://img.shields.io/badge/Java%20version-1.15.2-yellow) ![Bedrock version](https://img.shields.io/badge/Bedrock%20version-1.14.60-green)
 
 ## English
 
@@ -17,7 +17,6 @@ place it at the top of your selected pack list.
 
 - Version 1.16 support. [ Pending ]
 - Support of all French-speaking languages. [​On hold]
-- x16 version. [​ Pending]
 
 ## Français
 
