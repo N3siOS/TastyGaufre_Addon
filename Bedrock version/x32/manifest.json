@@ -1,18 +1,18 @@
 {
     "format_version": 2,
     "header": {
-        "description": "TastyGaufre Addon for Bedrock Edition",
-        "name": "TastyGaufre Addon test",
-        "uuid": "6c657340-0f3d-48cb-b676-d5804d86a776",
-        "version": [0, 0, 1],
+        "description": "TastyGaufre Addon Bedrock Edition",
+        "name": "TastyGaufre Addon x32 v1.1",
+        "uuid": "00de111b-efc9-4a6e-8187-e8c1a77310a3",
+        "version": [0, 1, 1],
         "min_engine_version": [1, 14, 0]
     },
     "modules": [
         {
-            "description":"TastyGaufre Addon test",
+            "description":"TastyGaufre Addon Bedrock Edition",
             "type": "resources",
-            "uuid": "13f01cbf-3da6-41b5-8209-04df3b8ac6c8",
-            "version": [0 , 0, 1]
+            "uuid": "9d2dd595-48d5-43ae-a768-fc4e2733d3ea",
+            "version": [0 , 1, 1]
         }
     ]
 }
